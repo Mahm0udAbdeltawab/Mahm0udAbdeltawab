@@ -9,7 +9,7 @@
 <p>
 <a href="https://www.linkedin.com/in/mahmoud-abdeltawab-sec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mabdeltawab933@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/M-Abdeltawab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Mahm0udAbdeltawab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
@@ -142,16 +142,11 @@ focus:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Abdeltawab&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Abdeltawab&theme=github_dark" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Mahm0udAbdeltawab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FF6D00&currStreakLabel=00D4AA" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Abdeltawab&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FF6D00&currStreakLabel=00D4AA" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Abdeltawab&theme=github-compact&hide_border=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6D00&area=true&area_color=00D4AA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahm0udAbdeltawab&theme=github-compact&hide_border=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6D00&area=true&area_color=00D4AA" />
 </div>
 
 ---
@@ -182,6 +177,6 @@ focus:
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=M-Abdeltawab&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Mahm0udAbdeltawab&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
