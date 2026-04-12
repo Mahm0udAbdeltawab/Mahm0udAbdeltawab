@@ -142,8 +142,8 @@ focus:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Abdeltawab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdeltawab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-Abdeltawab&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-Abdeltawab&theme=github_dark" height="170"/>
 </div>
 
 <div align="center">
