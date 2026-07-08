@@ -133,7 +133,7 @@ focus:
 
 ## 💼 Experience
 
-**DevOps Trainee — eYouth** *(Mar – Jun 2026, remote)*  
+**DevOps Training Program — eYouth** *(Mar – Jun 2026, remote, hands-on projects)*  
 - Built a GitOps CI/CD platform on AWS EKS: Terraform-provisioned infrastructure, Jenkins CI, ArgoCD continuous deployment  
 - Multi-repository GitOps workflow (infra / app / manifests) with automated image-tag updates — no manual deploys to Kubernetes  
 
