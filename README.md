@@ -4,7 +4,7 @@
 
 # Hey there 👋, I'm Mahmoud Abdeltawab
 
-### Aspiring DevOps Engineer | Cloud & Infrastructure Enthusiast
+### DevOps & Backend Engineer | B.Sc. Computer Science & AI — Zewail City '26
 
 <p>
 <a href="https://www.linkedin.com/in/mahmoud-abdeltawab-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 
 ```yaml
 name: Mahmoud Abdeltawab
-education: Senior CS @ Zewail City — IT (Network Security & Governance)
+education: B.Sc. Computer Science & AI @ Zewail City (2026) — GPA 3.42/4.00
 focus:
   - DevOps & Cloud Engineering
   - Scalable System Design
@@ -53,6 +53,10 @@ focus:
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -106,11 +110,12 @@ focus:
 
 ## 📦 Projects
 
-### 🎓 University Management Platform *(Graduation Project)*
-- Full-stack SaaS handling course registration for multiple universities  
-- Hybrid architecture with cloud failover for peak registration periods  
-- Multi-job CI/CD pipeline with automated rollback and health checks  
-- Role-based access, real-time notifications, and admin dashboards  
+### 🎓 [AURA — Hybrid-Cloud University Registration SaaS](https://github.com/Mahm0udAbdeltawab/aura-showcase) *(Graduation Project)*
+- **99.94% success rate across 571K+ requests (276 ms avg)** under k6 load tests with 3,000 concurrent users  
+- Hybrid cloud bursting: AWS-hosted HAProxy load balancers (active-standby, ~45 s DNS failover) route on-premises first, burst to Azure Container Apps over WireGuard VPN  
+- PostgreSQL streaming replication with read replicas and a zero-loss switchover runbook  
+- JWT/OTP/MFA auth, role-based access, real-time seat tracking via Socket.IO  
+- 📖 **[Full architecture writeup →](https://github.com/Mahm0udAbdeltawab/aura-showcase)**
 
 ### 📊 HR Dashboard
 - Data visualization platform with API integration  
@@ -127,6 +132,10 @@ focus:
 ---
 
 ## 💼 Experience
+
+**DevOps Trainee — eYouth** *(Mar – Jun 2026, remote)*  
+- Built a GitOps CI/CD platform on AWS EKS: Terraform-provisioned infrastructure, Jenkins CI, ArgoCD continuous deployment  
+- Multi-repository GitOps workflow (infra / app / manifests) with automated image-tag updates — no manual deploys to Kubernetes  
 
 **Software Development Intern — Tseppas** *(3 months)*  
 - Built an HR dashboard with APIs and frontend integration  
@@ -153,14 +162,14 @@ focus:
 
 ## 📜 Learning & Growth
 
-- 🎓 Computer Science (IT — Network Security & Governance)  
-- 📡 Networking & Security (CCNA Track)  
-- ⚙️ DevOps (CI/CD, containers, cloud architecture)  
+- 🎓 B.Sc. Computer Science & AI — Zewail City (2026)  
+- 📡 Fortinet Cybersecurity Track — Digital Egypt Pioneers Initiative (2025)  
+- ⚙️ DevOps (GitOps, Terraform, Kubernetes, CI/CD)  
 
 ### Currently Improving:
 - Advanced system design patterns  
+- Kubernetes administration  
 - Cloud-native architecture  
-- Infrastructure as Code  
 
 ---
 
@@ -168,7 +177,7 @@ focus:
 
 ### 💬 Let's Connect
 
-*I'm open to internships, collaboration, and learning opportunities in DevOps & Cloud.*
+*Open to full-time and internship opportunities in DevOps, Cloud, and Backend engineering.*
 
 <br/>
 
